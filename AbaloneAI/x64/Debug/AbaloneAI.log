@@ -1,0 +1,6 @@
+﻿  AbaloneAI.cpp
+D:\Code\Uni\strategiespiel praktikum\temp\AbaloneAI\AbaloneAI\AbaloneAI.cpp(357,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Code\Uni\strategiespiel praktikum\temp\AbaloneAI\AbaloneAI\AbaloneAI.cpp(369,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Code\Uni\strategiespiel praktikum\temp\AbaloneAI\AbaloneAI\AbaloneAI.cpp(384,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Code\Uni\strategiespiel praktikum\temp\AbaloneAI\AbaloneAI\AbaloneAI.cpp(1049): warning C4715: 'board::find_best_or_random': not all control paths return a value
+  AbaloneAI.vcxproj -> D:\Code\Uni\strategiespiel praktikum\temp\AbaloneAI\x64\Debug\AbaloneAI.exe

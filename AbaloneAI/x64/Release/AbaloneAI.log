@@ -1,0 +1,10 @@
+﻿  AbaloneAI.cpp
+D:\Code\Uni\strategiespiel praktikum\temp\AbaloneAI\AbaloneAI\AbaloneAI.cpp(357,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Code\Uni\strategiespiel praktikum\temp\AbaloneAI\AbaloneAI\AbaloneAI.cpp(369,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Code\Uni\strategiespiel praktikum\temp\AbaloneAI\AbaloneAI\AbaloneAI.cpp(384,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 552 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AbaloneAI.vcxproj -> D:\Code\Uni\strategiespiel praktikum\temp\AbaloneAI\x64\Release\AbaloneAI.exe
